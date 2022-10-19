@@ -79,7 +79,7 @@ function App() {
           <Separator css={{ margin: '15px 0' }} />
           <p style={{ textAlign: 'justify' }}>
             Creative Front End Developer with more than two year experience in
-            software development industry. Trained architect, self-taught
+            web development industry. Trained architect, self-taught
             software developer. Bringing my problem solving and analytical
             thinking skills from architecture into web development. Passionate
             about design, architecture, snowboarding and dogs{' '}
