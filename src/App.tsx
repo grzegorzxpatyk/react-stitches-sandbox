@@ -58,9 +58,6 @@ function App() {
             onClick={switchTheme}
             css={{
               padding: '.6rem'
-              // position: 'fixed',
-              // bottom: '1rem',
-              // right: '1rem'
             }}
           >
             <Half2Icon />
